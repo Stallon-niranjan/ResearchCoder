@@ -1,4 +1,4 @@
-# Pytorch Deep Learning Template
+# Pytorch Deep Learning Based Research 2 Code Implementation Project
 ### A clean and simple template to kick start your next dl project 🚀🚀
 *Francesco Saverio Zuppichini*
 
